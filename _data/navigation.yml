@@ -1,0 +1,8 @@
+- name: Home
+  link: /english.github.io/
+- name: About
+  link: /english.github.io/about/
+- name: Blog
+  link: /english.github.io/blog/
+- name: Staff
+  link: /english.github.io/staff/
