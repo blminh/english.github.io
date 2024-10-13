@@ -1,15 +1,8 @@
----
-layout: post
-title: "Test 02"
-date: 2024-09-30 17:45:22 +0700
-categories: test02
----
-
 # CONVERSATION
 
 ## 1.
 
-<audio controls src="/english.github.io/assets/audio/test02/conversation/1.mp3" title="Audio"></audio>
+<audio controls src="audio/conversation/1.mp3" title="Audio"></audio>
 
 M:
 My internet service is so slow.
@@ -30,7 +23,7 @@ They'll give you a new contract discount and credit my account for referring a f
 
 ## 2.
 
-<audio controls src="/english.github.io/assets/audio/test02/conversation/2.mp3" title="Audio"></audio>
+<audio controls src="audio/conversation/2.mp3" title="Audio"></audio>
 
 M:
 Maria, were you able to shop the product for the customer's order in time for delivery?
@@ -48,7 +41,7 @@ OK, I will do it right away.
 
 ## 3.
 
-<audio controls src="/english.github.io/assets/audio/test02/conversation/3.mp3" title="Audio"></audio>
+<audio controls src="audio/conversation/3.mp3" title="Audio"></audio>
 
 M:
 Angela, I've just confirmed the departure times and it looks like our train will be delayed a couple of hours.
@@ -66,7 +59,7 @@ Alright, so you can let them know our situation.
 
 ## 4.
 
-<audio controls src="/english.github.io/assets/audio/test02/conversation/4.mp3" title="Audio"></audio>
+<audio controls src="audio/conversation/4.mp3" title="Audio"></audio>
 
 M:
 Good afternoon.
@@ -86,7 +79,7 @@ Just put the package on the desk.
 
 ## 5.
 
-<audio controls src="/english.github.io/assets/audio/test02/conversation/5.mp3" title="Audio"></audio>
+<audio controls src="audio/conversation/5.mp3" title="Audio"></audio>
 
 M:
 Welcome to Mitchell's.
@@ -105,7 +98,7 @@ While I'm thinking, `could you get me` a chocolate milk?
 
 ## 6.
 
-<audio controls src="/english.github.io/assets/audio/test02/conversation/6.mp3" title="Audio"></audio>
+<audio controls src="audio/conversation/6.mp3" title="Audio"></audio>
 
 M:
 Hello, I'd like to apply for a credit card.
@@ -124,7 +117,7 @@ Why don't you start filing out this form while I photocopy your driver's license
 
 ## 7.
 
-<audio controls src="/english.github.io/assets/audio/test02/conversation/7.mp3" title="Audio"></audio>
+<audio controls src="audio/conversation/7.mp3" title="Audio"></audio>
 
 M:
 So, Sarah, has the bank contacted you since your interview with them?
@@ -143,7 +136,7 @@ But I asked if I could have the interview in the morning instead.
 
 ## 8.
 
-<audio controls src="/english.github.io/assets/audio/test02/conversation/8.mp3" title="Audio"></audio>
+<audio controls src="audio/conversation/8.mp3" title="Audio"></audio>
 
 M:
 Ms. Jeffrey, `I won't be able to attend` the seminar on Friday, so could you take notes for me?
@@ -164,7 +157,7 @@ I'll let you know if they discuss anything important at the seminar on Friday.
 
 ## 9.
 
-<audio controls src="/english.github.io/assets/audio/test02/conversation/9.mp3" title="Audio"></audio>
+<audio controls src="audio/conversation/9.mp3" title="Audio"></audio>
 
 M:
 Ms. Dias, we'd like to introduce the Spanish edition of Marketing a Successful Product `by the end of the quarter`.
@@ -182,7 +175,7 @@ If I `dedicate myself exclusively` to the project, five weeks could be possible.
 
 ## 10.
 
-<audio controls src="/english.github.io/assets/audio/test02/conversation/10.mp3" title="Audio"></audio>
+<audio controls src="audio/conversation/10.mp3" title="Audio"></audio>
 
 M:
 Did you see the review written up about Tangy Bangkok?
@@ -205,7 +198,7 @@ Yes, it was `quite unique`, but it doesn't make up for the `outrageous prices` a
 
 ## 1.
 
-<audio controls src="/english.github.io/assets/audio/test02/paragraph/1.mp3" title="Audio"></audio>
+<audio controls src="audio/paragraph/1.mp3" title="Audio"></audio>
 
 Miss Damon.
 This is Peter Bedford calling from the Air-Italia Airlines security desk.
@@ -222,7 +215,7 @@ We `sincerely apologize for any inconvenience` this may have caused you and than
 
 ## 2.
 
-<audio controls src="/english.github.io/assets/audio/test02/paragraph/2.mp3" title="Audio"></audio>
+<audio controls src="audio/paragraph/2.mp3" title="Audio"></audio>
 
 Good evening, shoppers!
 Our store will be closing in 10 minutes.
@@ -239,7 +232,7 @@ We'd like to `thank you once again` for choosing Bargain Hunters and `we look fo
 
 ## 3.
 
-<audio controls src="/english.github.io/assets/audio/test02/paragraph/3.mp3" title="Audio"></audio>
+<audio controls src="audio/paragraph/3.mp3" title="Audio"></audio>
 
 Welcome to Peller Morrison.
 My name is Cameron and I will be serving you this afternoon.
@@ -260,7 +253,7 @@ Would you like something to drink while you are making your decisions?
 
 ## 4.
 
-<audio controls src="/english.github.io/assets/audio/test02/paragraph/4.mp3" title="Audio"></audio>
+<audio controls src="audio/paragraph/4.mp3" title="Audio"></audio>
 
 Good morning.
 As director of the Phases Company marketing department, I am happy to announce today some great news.
@@ -272,7 +265,7 @@ I am confident that you `will be thrilled` to hear that due to `the positive gro
 
 ## 5.
 
-<audio controls src="/english.github.io/assets/audio/test02/paragraph/5.mp3" title="Audio"></audio>
+<audio controls src="audio/paragraph/5.mp3" title="Audio"></audio>
 
 Good evening.
 This is Dilana Miles at PRCK Light Jazz, your favorite jazz music station.
@@ -288,7 +281,7 @@ That's Friday morning at 9 a.m.
 
 ## 6.
 
-<audio controls src="/english.github.io/assets/audio/test02/paragraph/6.mp3" title="Audio"></audio>
+<audio controls src="audio/paragraph/6.mp3" title="Audio"></audio>
 
 Ladies and gentlemen, we are extremely honored to have tonight's guest speaker here with us.
 `I'm sure I don't have to remind you` of Dr. Nathan East's most `prominent works`, including his research on `the effects of global warming`.
@@ -300,7 +293,7 @@ We are pleased to have you with us, Dr. East.
 
 ## 7.
 
-<audio controls src="/english.github.io/assets/audio/test02/paragraph/7.mp3" title="Audio"></audio>
+<audio controls src="audio/paragraph/7.mp3" title="Audio"></audio>
 
 Good evening.
 Thank you for joining us here at Gossip Central.
@@ -319,7 +312,7 @@ Many people would have `given up` after just five years or so.
 
 ## 8.
 
-<audio controls src="/english.github.io/assets/audio/test02/paragraph/8.mp3" title="Audio"></audio>
+<audio controls src="audio/paragraph/8.mp3" title="Audio"></audio>
 
 Good morning, this is Christina from Jiffy Lube Car Services.
 We've been a member of the Better Business Bureau for over five years, and we're proud to announce the grand opening of our new and improved store.
@@ -334,7 +327,7 @@ If you would like more information, or to book an appointment, please call us at
 
 ## 9.
 
-<audio controls src="/english.github.io/assets/audio/test02/paragraph/9.mp3" title="Audio"></audio>
+<audio controls src="audio/paragraph/9.mp3" title="Audio"></audio>
 
 Next up at 6:00, a special look at health care.
 But first, at the city courthouse today, members of the community met with local law enforcement officials to discuss the growing problem of violence.
@@ -346,7 +339,7 @@ However, a few upset citizens joined the talks downtown to raise concerns about 
 
 ## 10.
 
-<audio controls src="/english.github.io/assets/audio/test02/paragraph/10.mp3" title="Audio"></audio>
+<audio controls src="audio/paragraph/10.mp3" title="Audio"></audio>
 
 Hello, Bob.
 This is Wanda St. Pierre from parking services.

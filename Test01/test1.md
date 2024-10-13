@@ -1,15 +1,8 @@
----
-layout: post
-title: "Test 01"
-date: 2024-09-30 15:11:22 +0700
-categories: test01
----
+# CONVERSATION
 
-# [<a name="main"></a>CONVERSATION](#main)
+## 1.
 
-## [<a name="C-01"></a>Conversation 01](#C-01)
-
-<audio controls src="/english.github.io/assets/audio/test01/conversation/1.mp3" title="Audio"></audio>
+<audio controls src="part3_1.mp3" title="Audio"></audio>
 
 M:
 Julie, would you please push back my 1:00 appointment this afternoon?
@@ -26,9 +19,9 @@ I should be back in my office by then.
 W:
 Great, I'll see if he can be here at 4.
 
-## [<a name="C-02"></a>Conversation 02](#C-02)
+## 2.
 
-<audio controls src="/english.github.io/assets/audio/test01/conversation/2.mp3" title="Audio"></audio>
+<audio controls src="part3_2.mp3" title="Audio"></audio>
 
 M:
 Good afternoon Telus Mobility.
@@ -45,9 +38,9 @@ What's your telephone number?
 W:
 It's 555-9328. My last name is Hawk.
 
-## [<a name="C-03"></a>Conversation 03](#C-03)
+## 3.
 
-<audio controls src="/english.github.io/assets/audio/test01/conversation/3.mp3" title="Audio"></audio>
+<audio controls src="part3_3.mp3" title="Audio"></audio>
 
 W:
 Kevin, when is everyone meeting to commemorate Jim's retirement?
@@ -64,9 +57,9 @@ But I need to stop by the bakery first, so I probably won't arrive until 7:30.
 M:
 OK, I see, but don't be too late because I will be waiting for you.
 
-## [<a name="C-04"></a>Conversation 04](#C-04)
+## 4.
 
-<audio controls src="/english.github.io/assets/audio/test01/conversation/4.mp3" title="Audio"></audio>
+<audio controls src="part3_4.mp3" title="Audio"></audio>
 
 W:
 William, I just found out that you won an award for a piece of your artwork.
@@ -82,9 +75,9 @@ You should feel honored. Are you painting any new pieces now?
 M:
 Well, I started work on a new oil painting this week and I hope to join a sculpture workshop `in the fall`.
 
-## [<a name="C-05"></a>Conversation 05](#C-05)
+## 5.
 
-<audio controls src="/english.github.io/assets/audio/test01/conversation/5.mp3" title="Audio"></audio>
+<audio controls src="part3_5.mp3" title="Audio"></audio>
 
 M:
 I'm here with a delivery.
@@ -103,9 +96,9 @@ Where should I leave the supplies?
 W:
 The filling cabinet can go in the conference room and the bookshelf and boxes of supplies can be left right here.
 
-## [<a name="C-06"></a>Conversation 06](#C-06)
+## 6.
 
-<audio controls src="/english.github.io/assets/audio/test01/conversation/6.mp3" title="Audio"></audio>
+<audio controls src="part3_6.mp3" title="Audio"></audio>
 
 W:
 Excuse me, how much is the entrance fee?
@@ -123,9 +116,9 @@ M:
 Well, I can offer you a half price coupon.
 Would you like to use it?
 
-## [<a name="C-07"></a>Conversation 07](#C-07)
+## 7.
 
-<audio controls src="/english.github.io/assets/audio/test01/conversation/7.mp3" title="Audio"></audio>
+<audio controls src="part3_7.mp3" title="Audio"></audio>
 
 M:
 Is this monitor available in black or silver?
@@ -142,9 +135,9 @@ W:
 Great, then let's go to the customer service counter to fill out the forms.
 You should have your new monitor within 10 business days.
 
-## [<a name="C-08"></a>Conversation 08](#C-08)
+## 8.
 
-<audio controls src="/english.github.io/assets/audio/test01/conversation/8.mp3" title="Audio"></audio>
+<audio controls src="part3_8.mp3" title="Audio"></audio>
 
 W:
 Richard, have you gotten your new `parking pass`?
@@ -160,9 +153,9 @@ Maybe you should contact someone in HR about getting you a card.
 M:
 Good idea. I'll call them right after the meeting.
 
-## [<a name="C-09"></a>Conversation 09](#C-09)
+## 9.
 
-<audio controls src="/english.github.io/assets/audio/test01/conversation/9.mp3" title="Audio"></audio>
+<audio controls src="part3_9.mp3" title="Audio"></audio>
 
 M:
 What would you like to do with your hair today?
@@ -179,9 +172,9 @@ W:
 Oh, did you?
 You make me feel more comfortable and excited about the changes to my hair.
 
-## [<a name="C-10"></a>Conversation 10](#C-10)
+## 10.
 
-<audio controls src="/english.github.io/assets/audio/test01/conversation/10.mp3" title="Audio"></audio>
+<audio controls src="part3_10.mp3" title="Audio"></audio>
 
 M:
 Hi, June, have you had any trouble with the phone systems this afternoon?
@@ -200,9 +193,9 @@ It is on the eighth floor, but you'll have to turn left at the reception desk an
 
 # PARAGRAPH
 
-## [<a name="P-01"></a>Paragraph 01](#P-01)
+## 1.
 
-<audio controls src="/english.github.io/assets/audio/test01/paragraph/1.mp3" title="Audio"></audio>
+<audio controls src="part4_1.mp3" title="Audio"></audio>
 
 Hello, this is Katie Burke calling from Cogeco Internet Services.
 Mr. Clifford, the reason I'm calling is we haven't received your payment for the installation of the modem and cable.
@@ -211,9 +204,9 @@ Please contact us at 1-800-222-4503, between 8 a.m. and 6 p.m., `Monday through 
 Thank you.
 We `look forward to` hearing from you at your `earliest convenience`.
 
-## [<a name="P-02"></a>Paragraph 02](#P-02)
+## 2.
 
-<audio controls src="/english.github.io/assets/audio/test01/paragraph/2.mp3" title="Audio"></audio>
+<audio controls src="part4_2.mp3" title="Audio"></audio>
 
 `I am pleased` to announce `the grand opening` of Atlas Steels Corporation here in Hamilton.
 As `director of operations`, I can only try to express `how proud I am`.
@@ -221,9 +214,9 @@ We will open the plant doors in early July and will `look at` hiring an addition
 We've expanded `quite a bit` since our first production facility in Milton, to our `present day` plants in Portland, Rochester, St. Louis, and now here in Hamilton.
 We are looking forward to joining the community.
 
-## [<a name="P-03"></a>Paragraph 03](#P-03)
+## 3.
 
-<audio controls src="/english.github.io/assets/audio/test01/paragraph/4.mp3" title="Audio"></audio>
+<audio controls src="part4_3.mp3" title="Audio"></audio>
 
 Hello.
 My name is Claudia and I am happy to be your host and guide this afternoon.
@@ -235,9 +228,9 @@ However, you will have `a couple of unguided hours` to visit our labs and tastin
 Feel free to ask any questions that you may have at anytime throughout the tour.
 I do hope that you enjoy your visit.
 
-## [<a name="P-04"></a>Paragraph 04](#P-04)
+## 4.
 
-<audio controls src="/english.github.io/assets/audio/test01/paragraph/4.mp3" title="Audio"></audio>
+<audio controls src="part4_4.mp3" title="Audio"></audio>
 
 Thank you for calling the University of Washington's library.
 To access a listing of staff and faculty extensions, please press 1 at anytime.
@@ -246,9 +239,9 @@ If you wish to access our political archives, an appointment can be made with Ed
 If you would like our reception staff to return your call, `please leave a message after the tone`.
 Thank you.
 
-## [<a name="P-05"></a>Paragraph 05](#P-05)
+## 5.
 
-<audio controls src="/english.github.io/assets/audio/test01/paragraph/5.mp3" title="Audio"></audio>
+<audio controls src="part4_5.mp3" title="Audio"></audio>
 
 Do you like French food?
 If so, you will love Chateau Francois, `on the corner` of John Street and Richardson Avenue.
@@ -259,9 +252,9 @@ Our newly-designed chef's deck overlooks our estate vineyards and the beautiful 
 Enjoy the view `as you relax` `over a glass of wine`.
 We look forward to seeing you for dinner.
 
-## [<a name="P-06"></a>Paragraph 06](#P-06)
+## 6.
 
-<audio controls src="/english.github.io/assets/audio/test01/paragraph/6.mp3" title="Audio"></audio>
+<audio controls src="part4_6.mp3" title="Audio"></audio>
 
 Good afternoon.
 I need to remind you of an upcoming event prior to the beginning of our meeting.
@@ -271,9 +264,9 @@ If you have an office in the west wing, be sure to contact Ms. Peters in human r
 Furthermore, remove all confidential files by the end of business on Monday.
 If you have any further questions, speak to Ms. Peters.
 
-## [<a name="P-07"></a>Paragraph 07](#P-07)
+## 7.
 
-<audio controls src="/english.github.io/assets/audio/test01/paragraph/7.mp3" title="Audio"></audio>
+<audio controls src="part4_7.mp3" title="Audio"></audio>
 
 Good evening, Office Depot shoppers.
 This is your Office Depot sales manager, Kendra Williams, informing you of some tremendous discounts we have for you in the store today.
@@ -283,18 +276,18 @@ Don't forget the electronics department, where computers, faxes, and printers ar
 And remember to pick up our new fall catalogue as you leave the store.
 It's your way of learning more about all that Office Depot has to offer.
 
-## [<a name="P-08"></a>Paragraph 08](#P-08)
+## 8.
 
-<audio controls src="/english.github.io/assets/audio/test01/paragraph/8.mp3" title="Audio"></audio>
+<audio controls src="part4_8.mp3" title="Audio"></audio>
 
 Starting next month we'll be introducing the company's new database computer system.
 The new network will combine a few features that will help us to stay connected more efficiently, especially on group tasks.
 Please remember that all files from the old database will not be moved to the new one, so it's essential that all staff back up their files by the end of the month. If you fail to do so, important data could be lost.
 The full network will require two weeks to install.
 
-## [<a name="P-09"></a>Paragraph 09](#P-09)
+## 9.
 
-<audio controls src="/english.github.io/assets/audio/test01/paragraph/9.mp3" title="Audio"></audio>
+<audio controls src="part4_9.mp3" title="Audio"></audio>
 
 Good afternoon everyone and thank you fo coming to this year's conference on organizational behavior.
 My name is Francis Lee and I'll be chairing the conference for the next three days.
@@ -306,9 +299,9 @@ Each of you will be responsible for responding daily to the lectures and posting
 Undoubtedly, during the conference, you will benefit both from the lectures themselves, and by interacting with your colleagues.
 We wish you good luck over the next three days.
 
-## [<a name="P-10"></a>Paragraph 10](#P-10)
+## 10.
 
-<audio controls src="/english.github.io/assets/audio/test01/paragraph/10.mp3" title="Audio"></audio>
+<audio controls src="part4_10.mp3" title="Audio"></audio>
 
 Good afternoon.
 This meeting shouldn't take more than 30 minutes.
